@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/qdeskdev/permissionhelper.svg)](https://jitpack.io/#qdeskdev/permissionhelper)
+
 # 🔐 Permission Helper Library for Android
 
 A professional, user-friendly Android library for handling runtime permissions with smart UX flow and beautiful Material Design dialogs.
