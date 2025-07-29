@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">permissionhelper</string>
+    <!-- Permission Dialog Strings -->
+    <string name="permission_dialog_title">Permission Required</string>
+    <string name="permission_dialog_allow">Allow</string>
+    <string name="permission_dialog_deny">Not Now</string>
+
+    <!-- Settings Prompt Strings -->
+    <string name="settings_prompt_title">Permission Required</string>
+    <string name="settings_prompt_open">Open Settings</string>
+    <string name="settings_prompt_cancel">Cancel</string>
+
+    <!-- Permission Messages -->
+    <string name="camera_permission_rationale">We need camera access to take photos and videos for your profile and posts.</string>
+    <string name="storage_permission_rationale">We need storage access to save photos, videos and other files to your device.</string>
+    <string name="location_permission_rationale">We need location access to show you nearby places and location-based content.</string>
+    <string name="microphone_permission_rationale">We need microphone access to record audio messages and video calls.</string>
+    <string name="contacts_permission_rationale">We need contacts access to help you find and connect with your friends.</string>
+    <string name="phone_permission_rationale">We need phone access to make calls directly from the app.</string>
+</resources>
