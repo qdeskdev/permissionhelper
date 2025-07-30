@@ -82,7 +82,7 @@
                     android:layout_weight="1"
                     android:background="@drawable/button_outline"
                     android:text="Cancel"
-                    android:textColor="?android:attr/colorAccent"
+                    android:textColor="@color/primary"
                     android:textSize="14sp"
                     android:textStyle="bold" />
 
@@ -94,7 +94,7 @@
                     android:layout_marginStart="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/button_primary"
-                    android:text="Open Settings"
+                    android:text="Settings"
                     android:textColor="@android:color/white"
                     android:textSize="14sp"
                     android:textStyle="bold" />
