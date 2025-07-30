@@ -38,7 +38,7 @@ publishing {
             }
             groupId = 'com.github.qdeskdev'
             artifactId = 'permissionhelper'
-            version = '1.0.5'
+            version = '1.0.7'
         }
     }
 }
