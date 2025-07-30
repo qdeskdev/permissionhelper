@@ -9,11 +9,12 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/settings_prompt_container"
-        android:layout_width="match_parent"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
+        android:layout_gravity="center"
         android:layout_margin="16dp"
         android:elevation="12dp"
+
         app:cardCornerRadius="20dp"
         app:cardElevation="12dp">
 
@@ -38,8 +39,7 @@
                 android:layout_height="48dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="16dp"
-                android:src="@drawable/ic_settings"
-                android:tint="?android:attr/colorAccent" />
+                android:src="@drawable/ic_settings" />
 
             <!-- Title -->
             <TextView
