@@ -35,7 +35,7 @@ Add this to your **app-level** `build.gradle` file:
 
 ```gradle
 dependencies {
-    implementation 'com.github.qdeskdev:permissionhelper:1.0.7'
+    implementation 'com.github.qdeskdev:permissionhelper:1.0.8'
     
     // Required dependencies (if not already included)
     implementation 'androidx.appcompat:appcompat:1.6.1'
