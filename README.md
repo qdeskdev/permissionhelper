@@ -484,8 +484,6 @@ SOFTWARE.
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/qdeskdev/permissionhelper/issues)
 - **Documentation**: Check this README and sample code
-- **Email**: Contact the maintainers for urgent issues
-
 ---
 
 **Made with ❤️ for Android developers who care about user experience**
