@@ -1,6 +1,5 @@
 plugins {
     alias(libs.plugins.android.library)
-    id 'maven-publish'
 }
 
 android {
@@ -28,20 +27,6 @@ android {
     }
 }
 
-// ✅ AGP 8+ compatible publishing setup
-publishing {
-    publications {
-        create("release", MavenPublication) {
-            // Use Android's new publishing API
-            afterEvaluate {
-                from(components.findByName("release"))
-            }
-            groupId = 'com.github.qdeskdev'
-            artifactId = 'permissionhelper'
-            version = '1.0.7'
-        }
-    }
-}
 
 dependencies {
     implementation libs.appcompat
