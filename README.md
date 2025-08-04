@@ -498,7 +498,7 @@ SOFTWARE.
 
 ---
 
-Like the library? Give it a ⭐ on  [GitHub](https://github.com/qdeskdev/permissionhelper/)
+If really help this, like the library? Give it a ⭐ on  [GitHub](https://github.com/qdeskdev/permissionhelper/)
 
 <div align="center">
   <h3>Happy Coding 🚀</h3>
