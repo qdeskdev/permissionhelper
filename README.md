@@ -1,4 +1,4 @@
-# 🔐 Permission Helper Library for Android
+# Permission Helper Library for Android
 
 [![JitPack](https://jitpack.io/v/qdeskdev/permissionhelper.svg)](https://jitpack.io/#qdeskdev/permissionhelper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
